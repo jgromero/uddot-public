@@ -1,0 +1,19 @@
+{
+  "@context" : {
+    "label" : {
+      "@id" : "http://www.w3.org/2000/01/rdf-schema#label"
+    },
+    "ORG" : {
+      "@id" : "http://sail.ugr.es/uddot/ORG"
+    },
+    "PER" : {
+      "@id" : "http://sail.ugr.es/uddot/PER"
+    },
+    "MISC" : {
+      "@id" : "http://sail.ugr.es/uddot/MISC"
+    },
+    "LOC" : {
+      "@id" : "http://sail.ugr.es/uddot/LOC"
+    }
+  }
+}
